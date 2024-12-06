@@ -53,14 +53,10 @@ The game has three difficulty levels, represented by stars:
 - `monty.png`: Image for the good character
 - `piranha.png`: Image for the bad character
 
-## Potential Improvements
+## TODO
 - Add sound effects
 - Implement high score tracking
 - Create more complex spawning patterns
 - Add more difficulty levels
 
-## Contributions
-Feel free to fork the project and submit pull requests with improvements or bug fixes!
 
-## License
-[Insert your license here]
