@@ -49,10 +49,6 @@ The game has three difficulty levels, represented by stars:
 3. Ensure all image assets (`monty.png`, `piranha.png`) are in the same directory
 4. Start playing!
 
-## Required Assets
-- `monty.png`: Image for the good character
-- `piranha.png`: Image for the bad character
-
 ## TODO
 - Add sound effects
 - Implement high score tracking
